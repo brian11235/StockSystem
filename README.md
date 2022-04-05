@@ -4,14 +4,15 @@
 This stock trading application provides users to trade(buy/sell) the stock online and keep tracking of their transactions. 
 
 <h2>Techs</h2>
-FrontEnd : React
-BackEnd : Spring boot
+FrontEnd : React, node.js
+<br>
+BackEnd : Spring boot, Spring mvc, Spring JPA
+<br>
 DB : Embedded H2
 
+<h2>Activity Diagrams</h2>
 
-Activity Diagrams
+<h2>Class Diagram</h2>
 
-Class Diagram
-
-How to start application ?
+<h2>How to start application ?</h2>
 
