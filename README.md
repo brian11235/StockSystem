@@ -11,7 +11,7 @@ BackEnd : Spring boot, Spring mvc, Spring JPA
 DB : Embedded H2
 
 <h2>Activity Diagrams</h2>
-![image](https://github.com/brian11235/StockSystem/blob/master/buy.png)
+![image](buy.png)
 .....
 <h2>Class Diagram</h2>
 
