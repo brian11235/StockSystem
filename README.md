@@ -11,10 +11,10 @@ BackEnd : Spring boot, Spring mvc, Spring JPA
 DB : Embedded H2
 
 <h2>Activity Diagrams</h2>
-(https://github.com/brian11235/StockSystem/blob/master/img/buy.png)
+<img src="https://github.com/brian11235/StockSystem/blob/master/img/buy.png">
 .....
 <h2>Class Diagram</h2>
-![image](https://github.com/brian11235/StockSystem/blob/master/img/High%20Level.png)
+<img src="https://github.com/brian11235/StockSystem/blob/master/img/High%20Level.png">
 
 <h2>How to start application ?</h2>
 
