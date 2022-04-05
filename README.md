@@ -14,7 +14,7 @@ DB : Embedded H2
 (https://github.com/brian11235/StockSystem/blob/master/img/buy.png)
 .....
 <h2>Class Diagram</h2>
-https://github.com/brian11235/StockSystem/blob/master/img/High%20Level.png
+![image](https://github.com/brian11235/StockSystem/blob/master/img/High%20Level.png)
 
 <h2>How to start application ?</h2>
 
